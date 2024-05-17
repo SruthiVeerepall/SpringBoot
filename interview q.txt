@@ -1,0 +1,104 @@
+
+
+   Core Java
+  ===================================================
+
+  1. What is interface?
+  2. What is the interface and abstract class 
+. 3. Wht String is immuatble?
+  4. Write a program to make a class immutable.
+  5. What is the diffrence between Method Overloading and Method Overriding.
+
+  6. What is the Diffrence between ArrayList and LinkedList?
+  7. What is the diffrenc between HashSet, LinkedHashSet and TreeSet?
+  8. what is the diff between List and Set.
+  9. What is Map in Java. Internal Working of Map. (HAshMap, TreeMap, HAshTable, LinkedHAshMap)
+  10.What are the fetures of java 8.
+                   1. default & static methods introduces in interfafces
+                   2. Lamda Expression
+                   3. Functional interfcae (Prdicate, Function, Consumer, Supplier)
+
+                   4. What is Optional clas why we used it
+                   5. Explain terminal(collect, forEach,Collectors) and non terminal Methods (filter, map, distinct)
+                   6. What is Stream API
+
+ Spring Framework
+===========================================================
+  
+  1. What is IOC(Inversion of control)
+  2. What is dependency injection (Setter based dependency injection, Constructor based)
+
+  3. What is @Autowired annotation, @Qualifier, @Configuration, @Value, @Bean
+
+  4. What is the didffrence between @Controller and @RestController 
+
+  5. What is restful wen services ( @GetMapping, @PostMapping, @PutMapping and @DeleteMapping)
+
+  6. What are microservices? Explain its architecture
+  7. How to communicate one microservice to another microservice( using RestTemplate and Feign client)
+  8. What is API Gateway in microservices.
+  9. What is Singeleton design pattern.
+  10 What is Junit using Mockito
+
+   11. What os the did between authorization and authentication
+ 12. How to implemnet Spring security
+                     Json Web Token, Oath2
+
+ 13. Diffrence between Spring and Spring boot?
+
+================================================================================
+
+  AWS  Cloud
+
+  1. What are the services you are familiar or working
+
+     EC2(Elastic computing cloud) it is basically one machine or server which you creae on cloud
+
+     S3 (Simple Storage Service)
+
+     RDS(Relational Database System)
+
+    SNS(Simple Notofication service)
+
+    JEnkins( CI/CD) Continous integration/continous deployment)
+
+    Docker (container service ) code + operating system+ required software
+
+
+
+
+===============================================================================================
+
+    Angular
+
+  1. What is Component?
+  2. What is one way data binding and two way data binding?
+  3. Interpolation
+  4. Structure directive in Angular ( *ngIf, *ngFor, *ngSwitch)
+
+  5. What is services in Angular?
+
+  6. What isRoting ?
+                        @Input decorartor             @Output
+  7. How to commicate parent to child comonnet and Child to parent)
+
+  8. HttpClinet ( Get, Post, delete)
+
+  9. Using Typesript we write code in angulr
+
+
+=================================================================================================
+
+
+
+
+
+
+
+
+
+
+
+
+                  
+                    
